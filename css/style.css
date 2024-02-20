@@ -13,12 +13,13 @@
     box-shadow: 0px 0px 20px -5px rgba(0, 0, 0, 0.5);
 }
 
-.logo img{
+.logo img {
     vertical-align: middle;
 }
-/* logo </header> */
 
-.container{
+/* logo </header> */
+/* main */
+.container {
     box-sizing: border-box;
     margin: 40px auto;
     width: 80%;
@@ -27,3 +28,35 @@
     border-radius: 0.5%;
     box-shadow: 0px 5px 20px -5px rgba(0, 0, 0, 0.5);
 }
+
+/* main */
+/* taskbox */
+.taskbox {
+    padding: 20px;
+    text-align: center;
+    border-bottom: solid white 3px;
+    border-radius: 0.5%;
+
+
+}
+
+.taskbox input {
+    width: 40%;
+    height: 40px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 20px -5px rgba(0, 0, 0, 0.4);
+
+
+}
+
+.taskbox button {
+    box-sizing: border-box;
+    width: 13%;
+    height: 40px;
+    color: white;
+    background-color: #14aaf5;
+    border-radius: 5px;
+    box-shadow: 0px 5px 20px -5px rgba(0, 0, 0, 0.4);
+}
+
+/* taskbox */
