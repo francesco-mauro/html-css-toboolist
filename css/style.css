@@ -60,3 +60,95 @@
 }
 
 /* taskbox */
+/* nested list  */
+
+
+
+/* nested list  */
+
+
+ul{
+    list-style: none; 
+    padding-left: 40px;
+}
+
+.arrow{
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.task-reminder{
+    margin-top: 12px;
+    border-radius: 5px;
+    width: 90%;
+    background-color: white;
+    line-height: 30px;
+    box-shadow: 0px 5px 20px -5px rgba(0, 0, 0, 0.2);
+}
+
+.checkbox{
+    padding: 5px;
+    /* margin: 5px; */
+    font-size: 10px;
+    height: 10px;
+    width: 10px;
+    box-sizing: border-box;
+    color: green;
+    border: 1px solid green;
+    background-color: #ffffff;
+    border-radius: 50%;
+}
+
+.inner-text{
+    text-decoration: line-through;
+    text-decoration-color: black;
+}
+
+
+.editorial {
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+    box-sizing: border-box;
+    color: white;
+    background-color: #14aaf5;
+    border-radius: 10px;
+    text-decoration: line-through;
+    text-decoration-color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+.prova{
+
+}
+
+
+ */
+/* 
+U+027A4
+UNICODE
+&#x27A4;
+HEX CODE
+&#10148;
+HTML CODE 
+*/
