@@ -99,7 +99,7 @@ ul{
     border-radius: 50%;
 }
 
-.inner-text{
+.barred-text{
     text-decoration: line-through;
     text-decoration-color: black;
 }
@@ -114,9 +114,8 @@ ul{
     box-sizing: border-box;
     color: white;
     background-color: #14aaf5;
-    border-radius: 10px;
-    text-decoration: line-through;
-    text-decoration-color: black;
+    border-radius: 15px;
+
 }
 
 .x-mark{
@@ -132,36 +131,63 @@ ul{
     border-radius: 50%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/* 
-.prova{
-
+.q1-goals {
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+    box-sizing: border-box;
+    color: white;
+    background-color: rgba(134, 81, 134, 0.767);
+    border-radius: 15px;
 }
 
+.recruting {
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+    box-sizing: border-box;
+    color: white;
+    background-color: rgba(81, 126, 81, 0.747);
+    border-radius: 15px;
+}
 
- */
-/* 
-U+027A4
-UNICODE
-&#x27A4;
-HEX CODE
-&#10148;
-HTML CODE 
-*/
+.mobile {
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+    box-sizing: border-box;
+    color: white;
+    background-color: orange;
+    border-radius: 15px;
+}
+
+.website {
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+    box-sizing: border-box;
+    color: white;
+    background-color: rgb(192, 102, 204);
+    border-radius: 15px;
+}
+
+.sales {
+    margin: 5px;
+    display: inline-block;
+    text-align: center;
+    height: 30px;
+    width: 70px;
+    box-sizing: border-box;
+    color: white;
+    background-color: rgb(102, 204, 111);
+    border-radius: 15px;
+}
+
